@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabric.Net", "Fabric.Net\Fabric.Net.csproj", "{9E5935EB-E97B-49CD-837A-90D6EF56DB12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabric.Net.Tests", "Fabric.Net.Tests\Fabric.Net.Tests.csproj", "{F2A847E3-409C-422E-9B26-B3543F73501E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E5935EB-E97B-49CD-837A-90D6EF56DB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5935EB-E97B-49CD-837A-90D6EF56DB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5935EB-E97B-49CD-837A-90D6EF56DB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5935EB-E97B-49CD-837A-90D6EF56DB12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A847E3-409C-422E-9B26-B3543F73501E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A847E3-409C-422E-9B26-B3543F73501E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A847E3-409C-422E-9B26-B3543F73501E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A847E3-409C-422E-9B26-B3543F73501E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
